@@ -18,7 +18,7 @@ This project contains:
 git clone https://github.com/ZEstaji/address-line.git
 ```
 
-1. Install Python 3.8 or higher
+1. Install Python 3.6 or higher
 2. Execute following line in CMD in the project folder:
 ```
 pip install -r requirements.txt
